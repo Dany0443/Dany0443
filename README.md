@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javascript, nodejs, python and linux.
 - 💞️ I’m looking to collaborate on making diferent projects that could benefit us and other ppl.
 - 📫 How to reach me danyz_266 discord 
-- 😄 Pronouns: Dan he/him
 
 <!---
 Dany0443/Dany0443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
