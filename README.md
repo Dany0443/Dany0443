@@ -2,7 +2,8 @@
 - 👀 I’m interested in anything that means tech
 - 🌱 I’m currently learning javascript, nodejs, python and linux.
 - 💞️ I’m looking to collaborate on making diferent projects that could benefit us and other ppl.
-- 📫 How to reach me danyz_266 discord 
+- 📫 How to reach me https://t.me/Dany0443
+
 
 <!---
 Dany0443/Dany0443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
