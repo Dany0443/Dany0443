@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript, nodejs, python and linux.
 - 💞️ I’m looking to collaborate on making diferent projects that could benefit us and other ppl.
 - 📫 How to reach me https://t.me/Dany0443
-  
+- 📫 Email: danzcrackz@gmail.com
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dany0443)
 
 
