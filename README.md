@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Linux+User+%F0%9F%90%A7;Server+Manager+%F0%9F%96%A5%EF%B8%8F;Web+Developer+%F0%9F%8C%90;Java+%7C+Python+%7C+C%2B%2B+Developer;Always+Building+Something+Cool+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Linux+User+%F0%9F%90%A7;Server+Admin+%F0%9F%96%A5%EF%B8%8F;Web+Developer+%F0%9F%8C%90;Java+%7C+Python+%7C+C%2B%2B+Developer;Always+Building+Something+Cool+%F0%9F%94%A5" />
 </p>
 
 ---
