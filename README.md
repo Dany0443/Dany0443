@@ -46,7 +46,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)
-![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
+![Beszel](https://img.shields.io/badge/-Beszel-black?style=for-the-badge)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=for-the-badge&logo=prometheus)
 ![Netdata](https://img.shields.io/badge/-Netdata-black?style=for-the-badge&logo=netdata)
 ![WireGuard](https://img.shields.io/badge/-WireGuard-black?style=for-the-badge&logo=wireguard)
