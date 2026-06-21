@@ -19,7 +19,7 @@
 ---
 
 ## 🛠️ Tech Stack
- 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
@@ -43,7 +43,23 @@
 ![Server Admin](https://img.shields.io/badge/-Server_Admin-black?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/-Networking-black?style=for-the-badge)
 ![Network Security](https://img.shields.io/badge/-Network_Security-black?style=for-the-badge&logo=wireshark)
-
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=for-the-badge&logo=prometheus)
+![Netdata](https://img.shields.io/badge/-Netdata-black?style=for-the-badge&logo=netdata)
+![WireGuard](https://img.shields.io/badge/-WireGuard-black?style=for-the-badge&logo=wireguard)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-black?style=for-the-badge&logo=openvpn)
+![Pi-hole](https://img.shields.io/badge/-Pi--hole-black?style=for-the-badge&logo=pihole)
+![AdGuard DNS](https://img.shields.io/badge/-AdGuard_DNS-black?style=for-the-badge&logo=adguard)
+![Firewall](https://img.shields.io/badge/-Firewall_(UFW)-black?style=for-the-badge)
+![iptables](https://img.shields.io/badge/-iptables-black?style=for-the-badge)
+![Fail2Ban](https://img.shields.io/badge/-Fail2Ban-black?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=nmap)
+![tmux](https://img.shields.io/badge/-tmux-black?style=for-the-badge)
+![Zsh](https://img.shields.io/badge/-Zsh-black?style=for-the-badge)
+ 
 ---
 
 ## 📊 GitHub Stats
