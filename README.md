@@ -19,19 +19,30 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Languages
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
-
-### 🖥️ Systems & DevOps
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=debian)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-black?style=for-the-badge&logo=archlinux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![openSUSE](https://img.shields.io/badge/-openSUSE-black?style=for-the-badge&logo=opensuse)
 ![NGINX](https://img.shields.io/badge/-NGINX-black?style=for-the-badge&logo=nginx)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-black?style=for-the-badge&logo=pterodactyl)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=for-the-badge&logo=mariadb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim)
+![Server Admin](https://img.shields.io/badge/-Server_Admin-black?style=for-the-badge)
+![Networking](https://img.shields.io/badge/-Networking-black?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/-Network_Security-black?style=for-the-badge&logo=wireshark)
 
 ---
 
