@@ -4,7 +4,7 @@ Linux guy. I mostly self-host stuff on my own servers and mess around with infra
 
 ## What I do
 
-Run my own servers, containers, and network setup. Write backend code occasionally in Python or JS. Comfortable in a terminal.
+Run my own servers, containers, and network setup. Write backend code occasionally in Node.JS. Comfortable in a terminal.
 
 ## Tech i'm comfortable with
 
