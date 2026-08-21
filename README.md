@@ -8,7 +8,7 @@ Run my own servers, containers, and network setup. Write backend code occasional
 
 ## Tech i'm comfortable with
 
-Linux, Docker, Nginx, Bash, Python, Node.js, WebTools, Java, C++, MariaDB, Git
+Linux, Docker, Nginx, Python, Node.js, WebTools, Java, C++, MariaDB, Git
 
 ## Contact
 
