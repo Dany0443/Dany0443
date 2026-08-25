@@ -10,6 +10,10 @@ Run my own servers, containers, and network setup. Write backend code occasional
 
 Linux, Docker, Nginx, Python, Node.js, WebTools, Java, C++, MariaDB, Git
 
+# Check my personal page
+
+dan-who.is-a.dev
+
 ## Contact
 
 Telegram: https://t.me/Dany0443
