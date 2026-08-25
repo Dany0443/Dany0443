@@ -1,6 +1,6 @@
 # Hi, im Dan
 
-Linux guy. I mostly self-host stuff on my own servers and mess around with infra more than I write code. Backend dev sometimes, when it's needed.
+I am a Linux guy. I mostly self-host stuff on my own servers and mess around with infra more than I write code. Backend dev sometimes, when it's needed.
 
 ## What I do
 
