@@ -1,4 +1,4 @@
-# Dan
+# Hi, im Dan
 
 Linux guy. I mostly self-host stuff on my own servers and mess around with infra more than I write code. Backend dev sometimes, when it's needed.
 
@@ -10,7 +10,7 @@ Run my own servers, containers, and network setup. Write backend code occasional
 
 Linux, Docker, Nginx, Python, Node.js, WebTools, Java, C++, MariaDB, Git
 
-# Check my personal page
+## Check my personal page
 
 https://dan-who.is-a.dev
 
