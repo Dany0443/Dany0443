@@ -12,7 +12,7 @@ Linux, Docker, Nginx, Python, Node.js, WebTools, Java, C++, MariaDB, Git
 
 # Check my personal page
 
-dan-who.is-a.dev
+https://dan-who.is-a.dev
 
 ## Contact
 
