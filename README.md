@@ -1,10 +1,10 @@
 # Hi, im Dan
 
-I am a Linux guy. I mostly self-host stuff on my own servers and mess around with infra more than I write code. Backend dev sometimes, when it's needed.
+I am a Linux guy. I mostly self-host stuff on my own servers and mess around with infra more than I write code.
 
 ## What I do
 
-Run my own servers, containers, and network setup. Write backend code occasionally in Node.JS. Comfortable in a terminal.
+Run my own custom servers, containers, and network setup. Write code occasionally for my own apps and services. Comfortable in a terminal.
 
 ## Tech i'm comfortable with
 
