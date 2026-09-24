@@ -17,4 +17,4 @@ https://dan-who.is-a.dev
 ## Contact
 
 Telegram: https://t.me/Dany0443
-Email: danzcrackz@gmail.com
+Email: dan@webjuniors.org
