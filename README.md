@@ -14,6 +14,8 @@ Linux, Docker, Nginx, Python, Node.js, WebTools, Java, C++, MariaDB, Git
 
 https://dan-who.is-a.dev
 
+# Currently working on [Ripcord](https://github.com/rusux64-bit/Ripcord)
+
 ## Contact
 
 Telegram: https://t.me/Dany0443
