@@ -11,8 +11,9 @@ Run my own custom servers, containers, and network setup. Write code occasionall
 Linux, Docker, Nginx, Python, Node.js, WebTools, Java, C++, MariaDB, Git
 
 ## Check my personal page
-
 https://dan-who.is-a.dev
+
+---
 
 # Currently working on [Ripcord](https://github.com/rusux64-bit/Ripcord)
 
